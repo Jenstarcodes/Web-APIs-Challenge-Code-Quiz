@@ -23,7 +23,7 @@ AS A coding boot camp student I WANT to take a timed quiz on JavaScript fundamen
 - If the question is answered incorrectly then a time of 10 seconds should be subtracted from the clock.
 - When either all questions are answered or the timer reaches zero then the quiz is over.
 - When the quiz is over the user will be provided a score and at that time the user can enter user's initials.
-- The user can save user's iniaials and score.
+- The user is presented with the option to save user's initials and score.
 
 
 ### References
