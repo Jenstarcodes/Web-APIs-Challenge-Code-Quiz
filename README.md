@@ -14,7 +14,7 @@ HTML, CSS, JavaScript
 
 ### Screen Shot 
 
-![Screen Shot](C:/Users/12155/Desktop/Code%20Quiz%20Challenge%20Image.html)
+![Screen Shot](https://jenstarcodes.github.io/Web-APIs-Challenge-Code-Quiz/)
 
 
 ## User Story
