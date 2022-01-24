@@ -14,8 +14,7 @@ HTML, CSS, JavaScript
 
 ### Screen Shot 
 
-![
-[Screen Shot](C:/Users/12155/Desktop/Code%20Quiz%20Challenge%20Image.html)
+![Screen Shot](C:/Users/12155/Desktop/Code%20Quiz%20Challenge%20Image.html)
 
 
 ## User Story
