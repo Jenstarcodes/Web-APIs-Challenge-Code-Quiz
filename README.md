@@ -12,11 +12,6 @@ For this project the goal was to build a timed coding quiz with multiple-choice 
 
 HTML, CSS, JavaScript
 
-### Screen Shot 
-
-![Screen Shot](https://jenstarcodes.github.io/Web-APIs-Challenge-Code-Quiz/)
-
-
 ## User Story
 
 AS A coding boot camp student I WANT to take a timed quiz on JavaScript fundamentals that stores high scores SO THAT I can gauge my progress compared to my peers
