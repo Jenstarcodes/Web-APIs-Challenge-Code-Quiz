@@ -30,6 +30,6 @@ AS A coding boot camp student I WANT to take a timed quiz on JavaScript fundamen
 
 ### References
 
-W3 Schools
-Freecode Camp
-You Tube Tutorials
+- W3 Schools
+- Freecode Camp
+- You Tube Tutorials
