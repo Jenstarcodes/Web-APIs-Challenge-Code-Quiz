@@ -2,7 +2,7 @@
 
 ### Deployed Link
 
-Web-APIs-Challenge-Code-Quiz [Placeholder]
+[Web-APIs-Challenge-Code-Quiz](https://jenstarcodes.github.io/Web-APIs-Challenge-Code-Quiz/)
 
 ## Description
 
@@ -12,7 +12,11 @@ For this project the goal was to build a timed coding quiz with multiple-choice 
 
 HTML, CSS, JavaScript
 
-### Screen Shot [Placeholder]
+### Screen Shot 
+
+![
+[Screen Shot](C:/Users/12155/Desktop/Code%20Quiz%20Challenge%20Image.html)
+
 
 ## User Story
 
